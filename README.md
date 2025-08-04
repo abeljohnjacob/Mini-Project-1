@@ -32,10 +32,10 @@ Our Mini Project, Plot Point - The Real Esatate Hub is a full-stack web applicat
 ---------------------------------------------------------
 | Layer          | Technology                           |
 |----------------|--------------------------------------|
-| Frontend       | HTML, CSS, JS, Bootstrap, TypeScript |
+| Frontend       | HTML, CSS, JS, TypeScript, Bootstrap |
 | Backend        | Python (Django)                      |
 | Database       | MySQL                                |
-| ML Component   | Python + Pandas/Scikit-learn         |
+| ML Component   | LightFM                              |
 | Hosting        | GitHub Pages                         |
 ---------------------------------------------------------
 
