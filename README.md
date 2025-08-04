@@ -29,6 +29,7 @@ Our Mini Project, Plot Point - The Real Esatate Hub is a full-stack web applicat
 
 
 #  Tech Stack
+
 ---------------------------------------------------------
 | Layer          | Technology                           |
 |----------------|--------------------------------------|
@@ -41,22 +42,28 @@ Our Mini Project, Plot Point - The Real Esatate Hub is a full-stack web applicat
 
 
 # Folder Structure
-📁 plot-point/
-├── frontend/
-│ ├── index.html
-│ ├── styles/
-│ └── scripts/
-├── backend/
-│ ├── app.py (Flask app)
-│ └── models/
-├── ml/
-│ └── recommender.py
-├── database/
-│ └── schema.sql
-└── README.md
+
+/Plot Point_real-estate-hub
+│
+├── /frontend
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js
+│
+├── /backend
+│   ├── app.py
+│   └── /routes
+│       └── api.py
+│
+├── /database
+│   └── schema.sql
+│
+├── README.md
+└── requirements.txt
 
 
 # Future Enhancements
+
 - Portal Designing and linking of two modules
 - Database set up
 - Image upload for property listings
@@ -64,6 +71,7 @@ Our Mini Project, Plot Point - The Real Esatate Hub is a full-stack web applicat
 
 
 # Team Members
+
 - Devadathan PR (Scrum Master)
 - Abel John Jacob
 - Abhimol Manoj
